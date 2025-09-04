@@ -1,0 +1,23 @@
+{
+  "features": [
+    "line",
+    "week",
+    "season",
+    "avg_3games",
+    "avg_5games",
+    "max_5games",
+    "min_5games",
+    "std_5games",
+    "trend",
+    "line_vs_avg",
+    "attempts_avg"
+  ],
+  "results": {
+    "train_acc": 0.9772565742714996,
+    "test_acc": 0.5198863636363636,
+    "train_auc": 0.9960922187872543,
+    "test_auc": 0.516093623890234,
+    "n_samples": 1759,
+    "n_features": 11
+  }
+}
